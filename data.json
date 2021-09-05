@@ -577,5 +577,24 @@
             
             }
       
-    ]
+    ],
+
+    "usuario": [
+        {
+          "id": 1,
+          "apellido_paterno": "Rave",
+          "apellido_materno": "Florez",
+          "nombre": "Alexis",
+          "username": "alexisrf0107@gmail.com",
+          "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+          "id": 2,
+          "apellido_paterno": "Aguiar",
+          "apellido_materno": "Cardona",
+          "nombre": "Alexandra",
+          "username": "aleaguiarsoto@gmail.com",
+          "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        }
+      ]
 }
