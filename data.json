@@ -144,7 +144,7 @@
             "id": 15,
             "titulo": "Naruto Shippuden Pelicula",
             "lanzamiento": "2007",
-            "portada":"",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630744127/api_sprint2/shippuden_pelicula_cofm10.jpg",
             "calificaciion": "7.3",
             "duracion":"1:05",
             "descripcion":"Les dejamos la ultima sinopsis de The Lost Tower: Tsunade asigna una nueva misión a Naruto, Sakura y Yamato para perseguir y atrapar al ninja desertor Mukade, 'el grupo de Kakashi' emprende su viaje a las ruinas históricas de ?Ouran? situada en el país de la Arena. El objetivo se encuentra dentro de las ruinas, Naruto entra en las ruinas para completar la misión, pero sin saber que en ese lugar se encuentra un poder oculto (Ryuumyaku), Mukade lo invoca y Naruto termina siendo absorbido por la energía liberada... ¡Naruto vuelve al pasado!!! Después de perder la conciencia, abrió los ojos y ve algo sorprendente: una ciudad rodeada de muchas torres que de su altura se pierden en el cielo. Sin darse cuenta del incidente, Naruto sigue su búsqueda de Mukade pero se encuentra con Sara, la reina de la ciudad. Sara le explica a a Naruto que esa es la ciudad de Ouran que durante su apogeo la gente vivía en paz y amaba-a su joven reina, hasta que se supo que el misterioso Ministro Anrokuzan estaba construyendo una terrible arma. Minato. 'Hace seis años, de repente apareció otro ninja del futuro como tú!!.' Aquel ministro era Mukade Anrokuzan, que ocultaba su identidad y quien estaba reuniendo una misteriosa energía para poder liberar el poder de Ryuumyaku. El Tercer Hokage, Sarutobi Hiruzen, se_había enterado de los terribles plantes de Mukade e inmediatamente envía un equipo de ninjas compuesto por Minato, Chouza, Shibi y Kakashi Hatake. Entre miles de torres se desata una pelea entre las marionetas de Mukade, Naruto, Sara y Minato..."
@@ -384,7 +384,7 @@
             "id": 39,
             "titulo": "Dragon Ball Z: Los 3 grandes Súper Saiyajin",
             "lanzamiento": "1992",
-            "portada":"",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786370/api_sprint2/Dragon_Ball_Z-Los_3_grandes_Su%CC%81per_Saiyajin_mv2m9d.jpg",
             "calificaciion": "6.5",
             "duracion":"1:00",
             "descripcion":"Cuando el Dr. Gero murió asesinado por N°17, el ordenador central no quedó desactivado y siguió trabajando en la creación de tres nuevos androides, N°13, N°14 y N°15, con el único objetivo de destruir a Son Goku. Pero Goku no está solo: Vegeta y Trunks pelean a su lado."
@@ -457,10 +457,10 @@
             "id": 46,
             "titulo": "Dragon Ball Z: Garlic Junior inmortal (Devolvedme a mi Gohan",
             "lanzamiento": "1989",
-            "portada":"Garlick y Kami Sama compitieron hace mucho por ser el Dios de la Tierra. Garlick salió derrotado y ahora su hijo Garlick Jr. desea conseguir lo que su padre no pudo. Para ello necesita la vida eterna y comienza a reunir las bolas de dragón, pero descubre que una de ellas está en poder de Gohan, así que decide secuestrarlo.",
+            "portada":"https://res.cloudinary.com/dd01p9lb9/image/upload/v1630786369/api_sprint2/Dragon_Ball_Z-Garlic_Junior_inmortal__Devolvedme_a_mi_Gohan_c6ldsc.jpg",
             "calificaciion": "6.2",
             "duracion":"1:21",
-            "descripcion":""
+            "descripcion":"Garlick y Kami Sama compitieron hace mucho por ser el Dios de la Tierra. Garlick salió derrotado y ahora su hijo Garlick Jr. desea conseguir lo que su padre no pudo. Para ello necesita la vida eterna y comienza a reunir las bolas de dragón, pero descubre que una de ellas está en poder de Gohan, así que decide secuestrarlo."
         },
 
         {
